@@ -66,3 +66,4 @@ This project is licensed under the terms specified in the LICENSE file.
 ## Acknowledgements
 
 This project integrates parts of the Sapiens framework for human-centric vision tasks. Special thanks to the developers behind Sapiens for their open-source contributions. 
+Dataset for frame info about signs used from here- https://github.com/hoangchunghien/Sign-Language-Recognition/blob/master/data
