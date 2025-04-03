@@ -1,15 +1,3 @@
-# Sign Language Detection
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.8%2B-orange)
-
-A deep learning system that detects and recognizes sign language gestures from video inputs, enabling effective communication for the deaf and hard-of-hearing community.
-
-<p align="center">
-  <img src="docs/images/pipeline_diagram.png" alt="Pipeline Diagram" width="800"/>
-</p>
-
 # Sign Language Detection Project
 
 This project implements a sign language detection pipeline using video inputs and deep learning models. It processes video data through several stages including preprocessing, feature extraction, transformer-based recognition, and optional segmentation to improve detection performance.
@@ -66,4 +54,3 @@ This project is licensed under the terms specified in the LICENSE file.
 ## Acknowledgements
 
 This project integrates parts of the Sapiens framework for human-centric vision tasks. Special thanks to the developers behind Sapiens for their open-source contributions. 
-Dataset for frame info about signs used from here- https://github.com/hoangchunghien/Sign-Language-Recognition/blob/master/data
