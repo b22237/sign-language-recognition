@@ -1,5 +1,6 @@
 # Sign Language Detection Project
 Report link-https://drive.google.com/file/d/10KKjkBgjvMQY5vp0v903HhPcTNSHYo6x/view?usp=drive_link
+
 This project implements a sign language detection pipeline using video inputs and deep learning models. It processes video data through several stages including preprocessing, feature extraction, transformer-based recognition, and optional segmentation to improve detection performance.
 
 
